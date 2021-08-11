@@ -351,6 +351,8 @@ KeepNaive的P站图片精选 https://t.me/KeepNaive233_Pixiv
 
 幽幽子的每日推歌 https://t.me/YuyukoDailyMusic
 
+私を知っている https://t.me/Thiinee
+
 Random GIF https://t.me/RdGif
 
 Gifs and stuff https://t.me/NEETsgifstash
