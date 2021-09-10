@@ -423,28 +423,19 @@ YYeTs 资源机器人 @yyets_bot
 
 ## --NSFW--
 
-黄油聚集地 https://t.me/acg_nsfw
-
-WTM的黄油商店 https://t.me/WTMshop
-
-琉璃神社 补档 https://t.me/liuli_link
-
-四十九 acg 杂谈 https://t.me/acg49
-
-记录冻鳗图出处频道 https://t.me/acgvia
-
-黄油游戏群 https://t.me/huangyouqun
-
-DLsite一些游戏集散地 https://t.me/OGC_DLsite_Cangku
-
-Galgame 频道 https://t.me/Galgamer_Channel
-
-GIF出處福利頻道 https://t.me/zhaochuchu
-
-Saved Vedio https://t.me/savedvedio
-
-Loli Mobile Games https://t.me/LoliMobileGames
-
-[master] loliclub_bot @loliclub_bot
-
-番号在线播放机器人 @av_video_bot
+--NSFW--
+黄油聚集地 https://t.me/acg_nsfw  
+WTM的黄油商店 https://t.me/WTMshop  
+琉璃神社 补档 https://t.me/liuli_link  
+四十九 acg 杂谈 https://t.me/acg49  
+记录冻鳗图出处频道 https://t.me/acgvia  
+绅士收藏夹 https://t.me/hiddencollection  
+黄油游戏群 https://t.me/huangyouqun  
+DLsite一些游戏集散地 https://t.me/OGC_DLsite_Cangku  
+分享同人黄油[NSFW] https://t.me/Errrgame  
+Galgame 频道 https://t.me/Galgamer_Channel  
+GIF出處福利頻道 https://t.me/zhaochuchu  
+Saved Vedio https://t.me/savedvedio  
+Loli Mobile Games https://t.me/LoliMobileGames  
+[master] loliclub_bot @loliclub_bot  
+番号在线播放机器人 @av_video_bot  
