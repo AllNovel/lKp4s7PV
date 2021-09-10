@@ -17,7 +17,7 @@ rvalue的生草日常 https://t.me/rvalue_daily
 
 For Work 梗频道 https://t.me/JISFW
 
-心惊报 https://t.me/xinjingdaily
+老闆來點鐵鍋炖 https://t.me/link_to_bunny_channel
 
 某科学的一个频道 https://t.me/titan_pain
 
@@ -186,6 +186,8 @@ Steam快讯 https://t.me/steamsteam
 PC游戏资讯&喜加一 https://t.me/SteamEpicUplay
 
 你有一个打折需要了解 https://t.me/SteamNy
+
+噫~这世界 https://t.me/thisworldfeed
 
 安全上网，注意事项 https://t.me/anquanshangwang
 
@@ -423,7 +425,6 @@ YYeTs 资源机器人 @yyets_bot
 
 ## --NSFW--
 
---NSFW--
 黄油聚集地 https://t.me/acg_nsfw  
 WTM的黄油商店 https://t.me/WTMshop  
 琉璃神社 补档 https://t.me/liuli_link  
