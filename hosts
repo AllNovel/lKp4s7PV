@@ -7,3 +7,5 @@
 127.0.0.1 nishub1.10010.com:38750
 127.0.0.1 onepass.geetest.com
 127.0.0.1 114dev.com
+#adguatd
+0.0.0.0 ad.doubleclick.net
