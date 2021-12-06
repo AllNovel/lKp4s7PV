@@ -1,6 +1,8 @@
 # 微信
 DOMAIN-KEYWORD,weixin
 DOMAIN-SUFFIX,dns.weixin.qq.com
+DOMAIN-SUFFIX,233yun.xyz
+DOMAIN-SUFFIX,xn--9kq568dvkr.com
 # > Amazon
 DOMAIN-SUFFIX,amazon.co.jp
 DOMAIN,d3c33hcgiwev3.cloudfront.net
