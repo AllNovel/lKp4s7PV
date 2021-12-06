@@ -4,8 +4,7 @@ DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,中国
 DOMAIN-SUFFIX,公司
 DOMAIN-SUFFIX,网络
-DOMAIN-SUFFIX,www.gstatic.com
-DOMAIN-SUFFIX,ssl.gstatic.com
+DOMAIN-KEYWORD,gstatic
 DOMAIN-SUFFIX,mtalk.google.com
 DOMAIN-SUFFIX,fonts.gstatic.com
 DOMAIN-SUFFIX,alt1-mtalk.google.com
