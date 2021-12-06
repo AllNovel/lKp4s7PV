@@ -4,7 +4,15 @@ DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,中国
 DOMAIN-SUFFIX,公司
 DOMAIN-SUFFIX,网络
-
+DOMAIN-SUFFIX,mtalk.google.com
+DOMAIN-SUFFIX,alt1-mtalk.google.com
+DOMAIN-SUFFIX,alt2-mtalk.google.com
+DOMAIN-SUFFIX,alt3-mtalk.google.com
+DOMAIN-SUFFIX,alt4-mtalk.google.com
+DOMAIN-SUFFIX,alt5-mtalk.google.com
+DOMAIN-SUFFIX,alt6-mtalk.google.com
+DOMAIN-SUFFIX,alt7-mtalk.google.com
+DOMAIN-SUFFIX,alt8-mtalk.google.com
 # 中国国内常见域名关键词直连
 DOMAIN-KEYWORD,-cn
 DOMAIN-KEYWORD,360buy
