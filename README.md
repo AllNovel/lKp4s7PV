@@ -109,6 +109,7 @@ Useless Ideas https://t.me/uselessideas
 [SFW]GKP 的小木屋 https://t.me/gkpshare  
 NickTalk https://t.me/nicktalk  
 Find Blog 发现博客 https://t.me/FindBlog  
+个人网站发现 https://t.me/FindSite
 《一天世界》博客 https://t.me/yitianshijie  
 HuTalk 胡说 https://t.me/hu_talk  
 /var/log/ciel https://t.me/var_log_ciel  
