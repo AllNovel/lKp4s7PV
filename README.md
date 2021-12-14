@@ -243,8 +243,8 @@ GIF出處福利頻道 https://t.me/zhaochuchu
 Saved Vedio https://t.me/savedvedio  
 Loli Mobile Games https://t.me/LoliMobileGames  
 (ゲームCG) 一个兴趣使然的[NSFW-ios-XNR] https://t.me/galgamenoHCG  
-[master] loliclub_bot @loliclub_bot  
-番号在线播放机器人 @av_video_bot  
+[master loliclub_bot](https://t.me/loliclub_bot)  
+[番号在线播放机器人](https://t.me/av_video_bot)  
 ## 主题  
 http://t.me/addtheme/MountainSolitude  
 ## 贴纸包  
