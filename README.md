@@ -1,6 +1,5 @@
 # 我关注的Telegram Channel
 
-目录  
 - [我关注的Telegram Channel](#我关注的telegram-channel)
   - [沙雕](#沙雕)
   - [新闻](#新闻)
