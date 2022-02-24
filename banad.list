@@ -1,18 +1,11 @@
 IP-CIDR,127.0.0.1/32,no-resolve
-
-127.0.0.1 x5.tbs.org
-127.0.0.1 x5.tbs.org.64
-127.0.0.1 x5.oversea.tbs.org
-127.0.0.1 id6.me
-127.0.0.1 cmpassport.com
-127.0.0.1 opencloud.wostore.cn
-127.0.0.1 nishub1.10010.com:38750
-127.0.0.1 onepass.geetest.com
-127.0.0.1 114dev.com
-#adguatd
-0.0.0.0 ad.doubleclick.net
-#移动认证登录
-127.0.0.1 www.cmpassport.com
-127.0.0.1 wap.cmpassport.com
-127.0.0.1 smsks1.cmpassport.com
-127.0.0.1 log1.cmpassport.com
+DOMAIN-KEYWORD,cmpassport.com
+DOMAIN-KEYWORD,x5.tbs.org
+DOMAIN-KEYWORD,x5.tbs.org.64
+DOMAIN-KEYWORD,x5.oversea.tbs.org
+DOMAIN-KEYWORD,id6.me
+DOMAIN-KEYWORD,opencloud.wostore.cn
+DOMAIN-KEYWORD,nishub1.10010.com:38750
+DOMAIN-KEYWORD,onepass.geetest.com
+DOMAIN-KEYWORD,114dev.com
+DOMAIN-KEYWORD,ad.doubleclick.net
